@@ -8,4 +8,4 @@ cd react-webpack-express-demo
 npm run build
 node server.js
 ```
-在浏览器中打开http://localhost:3000
+在浏览器中打开<http://localhost:3000>
